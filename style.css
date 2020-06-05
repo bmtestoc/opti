@@ -122,6 +122,7 @@ a:hover{text-decoration:none;cursor:pointer;}
 .l-bloc .btn-wire,
 .l-bloc .btn-wire:hover{color:rgba(0, 0, 0, .7);border-color:rgba(0, 0, 0, .3);}
 .voffset{margin-top:30px;}
+.voffset > p{font-size: 20px;}
 .voffset-lg{margin-top:80px;}
 .row-no-gutters{margin-right:0;margin-left:0;}
 .row.row-no-gutters > [class^="col-"],
@@ -211,7 +212,7 @@ p,
 label,
 .btn,
 a{font-family:"helvetica";font-weight:400;color:#575757!important;}
-.col-sm-12 > h1 {color:#F3976C!important;}
+.col-sm-12 > h1 {color:black!important;}
 #name, #email, #input_504, #message {background-color: #dcdcdc;}
 .container{max-width:1000px;}
 .hero-bloc-text{font-size:38px;}

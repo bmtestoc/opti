@@ -213,7 +213,7 @@ h5,
 h6,
 p,
 label,
-.btn,{font-family:"helvetica";font-weight:400;color:#575757!important;}
+.btn{font-family:"helvetica";font-weight:400;color:#575757!important;}
 a{color:black;}
 .col-sm-12 > h1 {color:white!important;}
 .col-sm-12 > p {color:white!important;}
